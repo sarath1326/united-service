@@ -1,0 +1,23 @@
+.whatsap{
+
+
+    height: 50px;
+    width:250px ;
+    background-color: rgb(123, 201, 7);
+    margin-top: 100px;
+   border-radius: 20px;
+   padding-left: 20px;
+   padding-top: 8px;
+   
+}
+
+.whatsap a{
+
+    color: white;
+    text-decoration:none;
+    font-size:23px ;
+}
+
+.whatsap i{
+    font-size: 30px;
+}
